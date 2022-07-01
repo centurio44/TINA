@@ -1165,7 +1165,7 @@ Please @${m.mentionedJid[0].split`@`[0]} To Type Accept/Reject`
             let orang = member[Math.floor(Math.random() * member.length)]
             let jodoh = member[Math.floor(Math.random() * member.length)]
             let jawab = `@${orang.split('@')[0]} ❤️ @${jodoh.split('@')[0]}
-Cieeee, What's Going On SETTING CHAL RAHI DONO KI❤️💖👀`
+AWWWWWW, What's Going On SETTING CHAL RAHI DONO KI❤️💖👀`
             let menst = [orang, jodoh]
             let buttons = [
                         { buttonId: '❤️', buttonText: { displayText: '❤️' }, type: 1 }
@@ -3293,7 +3293,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')},
                             hydratedFooterText: `┌─❖
-│「 Hi 👋 」
+│「 HELLO KAISE HO 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  THIS IS ＴＩＮΛ ❤️😎
 ││✑  🐦🖐️!!
@@ -3312,12 +3312,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
+                                    displayText: '💕YouTube📍',
                                     url: `${myweb}`
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
+                                displayText: '🌟Script🌟',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3332,7 +3332,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: '👨🏻‍💻OWNER👨🏻‍💻',
+
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -3354,7 +3355,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')}, 
                             hydratedFooterText: `
 ┌─❖
-│「 Hi 👋 」
+│「 HELLO KAISE HO 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  THIS IS ＴＩＮΛ ❤️👨🏻‍💻😎
 │└───────────────┈ ⳹
@@ -3372,27 +3373,27 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
+                                    displayText: '💕YouTube📍',
                                     url: `${myweb}`
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
+                                displayText: '🌟Script🌟',
                                     url: `${sc}`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'All Menu🎉',
+                                    displayText: '😎All Menu😎',
                                     id: `${prefix}allmenu`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: 'List Menu⭐',
+                                    displayText: '🤡List Menu🤡',
                                     id: `${prefix}command`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner🐦',
+                                    displayText: '👨🏻‍💻Owner👨🏻‍💻',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -3515,7 +3516,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "Thanks To",
-										"description": "Displays The List Of Credit Of The Bot !!",
+										"description": "Displays The List Of Credit Of The Bot 😈👨🏻‍💻!!",
 										"rowId": `${prefix}tqtt`
 									}
 								]
@@ -3528,7 +3529,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonate me on paytm 😎 - 919536476115 UPI Id - 9536476115@paytm. DONATE NOW ❤️😋💞, And Don't forget to subscribe my YouTube channel 😁😁😎 Link - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/12ccVrC/tina.png' }, caption: `*Hi Bro ${m.pushName}*\nDonate me on paytm 😎 - 919536476115 UPI Id - 9536476115@paytm. DONATE NOW ❤️😋💞, And Don't forget to subscribe my YouTube channel 😁😁😎 Link - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
