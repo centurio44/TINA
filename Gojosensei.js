@@ -3529,7 +3529,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/12ccVrC/tina.png' }, caption: `*Hi Bro ${m.pushName}*\nDonate me on paytm 😎 - 919536476115 UPI Id - 9536476115@paytm. DONATE NOW ❤️😋💞, And Don't forget to subscribe my YouTube channel 😁😁😎 Link - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/fptD1XJ/gojo.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonate me on paytm 😎 - 919536476115 UPI Id - 9536476115@paytm. DONATE NOW ❤️😋💞, And Don't forget to subscribe my YouTube channel 😁😁😎 Link - youtube.com/c/chiragyoutuber\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
