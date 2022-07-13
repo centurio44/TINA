@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+919536476115']
-global.premium = ['+919536476115']
-global.ownernomer = '+919536476115'
+global.owner = ['919536476115']
+global.premium = ['919536476115']
+global.ownernomer = '919536476115'
 global.ownername = 'CHIRAG YOUTUBER 👨🏻‍💻'
 global.botname = 'ＴＩＮΛ'
 global.footer = 'ＴＩＮΛ ❤️😎👨🏻‍💻'
