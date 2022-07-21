@@ -80,7 +80,7 @@ Add FFmpeg to PATH environment variable
 
 
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@LOSTHACKEROFC/TINA-SCANNER#index.js)
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@LOSTHACKEROFC/TINA-SCANNER?v=1outputonly%3D1&lite=1#index.js)
 
 * Fork This Repo By Clicking [Here](https://github.com/LOSTHACKEROFC/TINA/fork)
 
