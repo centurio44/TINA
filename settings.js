@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919536476115']
-global.premium = ['919536476115']
-global.ownernomer = '919536476115'
+عالمي . المالك   = [ " ]9
+عالمي . قسط       = [ "96773727787
+عالمي . المالك     =     "96773727787
 global.ownername = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍'
 global.botname = 'ＴＩＮΛ'
 global.footer = 'ＴＩＮΛ ❤️😎👨🏻‍💻'
@@ -31,7 +31,7 @@ global.sc = 'https://github.com/LOSTHACKEROFC/TINA'
 global.myweb = 'https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA'
 global.packname = 'ＴＩＮΛ 👨🏻‍💻❤️'
 global.author = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍 ❤️'
-global.sessionName = 'session'
+عالمي .   =   'جلسة'dTByVGFnTFI=
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
